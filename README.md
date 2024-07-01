@@ -1,4 +1,4 @@
-# Taylor Swift Songs Emotion Prediction
+# Analysing Taylor Swift Songs with Emotion Prediction:
 
 ### Project Overview:
 This project aims to predict the emotional tones of Taylor Swift's songs based on their musical features. Using machine learning techniques, the songs are categorized into emotional categories such as Happy, Sad, Energetic, and Calm. The dataset includes features like danceability, energy, key, loudness, and more extracted from Taylor Swift's songs.
